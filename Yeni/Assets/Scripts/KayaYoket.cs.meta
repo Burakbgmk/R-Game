@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8f108d6eef59b4a4f900a4bf065cd040
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kaya: {fileID: 6409848567569994418, guid: 30437a1395bf4d044a34c0a5a5eaa66c, type: 3}
+  - top: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

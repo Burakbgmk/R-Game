@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11f6a05c54c9d4e4b9f80d68608d214a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fizik: {instanceID: 0}
+  - puanText: {instanceID: 0}
+  - oyunBittiText: {instanceID: 0}
+  - Kaya: {fileID: 6409848567569994418, guid: 30437a1395bf4d044a34c0a5a5eaa66c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

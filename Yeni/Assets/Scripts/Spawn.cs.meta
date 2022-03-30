@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3b09e900f8188c246b3cfcf638269349
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kupp: {fileID: 5191828336424940987, guid: 8c3d1ac23b0cee747a97d41f69a5305a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
